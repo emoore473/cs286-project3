@@ -2,7 +2,9 @@
     "files.associations": {
         "fstream": "cpp",
         "ostream": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp"
     },
     "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
